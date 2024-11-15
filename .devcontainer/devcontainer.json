@@ -1,0 +1,32 @@
+{
+    "name": "GopherDen Container",
+    "build": {
+      "dockerfile": "Dockerfile",
+      "context": ".."
+    },
+    "mounts": [
+      "type=bind,source=/home/${localEnv:USER}/.ssh,target=/home/vscode/.ssh,readonly"
+    ],
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "python.defaultInterpreterPath": "/usr/local/bin/python"
+        },
+        "extensions": [
+            "Vue.volar",
+            "ms-python.python"
+        ]
+      }
+    },
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    "forwardPorts": [
+      3000,
+      7877,
+      8000
+    ],
+    // Use 'onCreateCommand' to run commands at the end of container creation.
+    // Use 'postCreateCommand' to run commands after the container is created.
+    "onCreateCommand": "task setup",
+    "remoteUser": "vscode"
+  }
+    

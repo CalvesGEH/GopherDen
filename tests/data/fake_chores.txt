@@ -1,0 +1,202 @@
+chore_name|chore_description|total_time_minutes|frequency_days
+Vacuum Living Room|Use vacuamo to clean living room's floors and furniture edges|45|7
+Clean Windows|Wash inside and outside of windows using glass cleaner|60|30
+Mow Lawn|Trim the grass in your front yard with a lawn mower|90|14
+Organize Garage|Sort through garage items, discard unwanted things, organize remaining objects|120|180
+Wash Cars|Clean both exterior and interior of family cars using car wash supplies|60|30
+Cook Dinner|Prepare an evening meal for the household|45|7
+Do Laundry|Wash, dry, fold, and put away all dirty clothing|120|3
+Dust Furniture|Use a duster to clean dust off shelves, furniture, and other surfaces|30|7
+Clean Bathroom|Scrub and disinfect the bathroom's sink, toilet, shower, and floor|60|5
+Feed Pets|Fill pet food bowls with appropriate portions of food for all household pets|10|1
+Water Plants|Water indoor and outdoor plants as necessary|30|7
+Iron Clothes|Press clothing using an iron to remove wrinkles|45|14
+Prepare Breakfast|Make morning meals for the household, such as eggs or oatmeal|30|7
+Change Bed Linens|Strip and wash bed linens, making new ones on beds|60|28
+Clean Refr grocery Shopping|Purchase food items from a grocery list for the week ahead|60|14
+Sweep Driveway|Remove leaves, debris, and dirt from driveway using a broom or leaf blower|30|7
+Wash Dishes|Clean all dirty dishes by hand or in a dishwasher|20|1
+Prepare Lunch|Cook or prepare lunch items for the household, like sandwiches or salads|45|7
+Trim Hedges|Shape and trim garden hedges with shears or an electric hedge trimmer|90|30
+Update To-Do List|Review weekly tasks and update as needed|15|7
+Fold Laundry|Fold clean laundry into organized piles for each household member|45|7
+Prep Meals|Chop, marinate, or assemble ingredients for meals in advance of cooking days|60|2
+Clean Microwave|Wipe down and sanitize the microwave using a vinegar solution|30|14
+Sweep Front Porch|Clear porch area from leaves, dirt, or debris with a broom|20|7
+Charge Electronics|Recharge all household electronics such as phones, tablets, and laptops|60|14
+Clean Fish Tank|Empty and clean fish tank, change water, and refill it for pets|90|35
+Feed Birds|Fill bird feeders located outside the home with seeds or nuts|15|1
+Mop Kitchen Floor|Wash kitchen floor using a mop and appropriate cleaner|45|7
+Clean Oven|Scrub oven racks and interior of the oven to remove grease and grime|90|30
+Straighten Living Room|Arrange cushions, straighten decorations, and tidy up living room area|45|7
+Fertilize Plants|Apply plant food or fertilizer to indoor and outdoor plants as needed|60|90
+Clean Fridge Coils|Remove fridge from wall and clean the coils using a brush or vacuum attachment|30|182
+Groceries Inventory Check|Review and restock household groceboard with missing items|45|7
+Fix Minor Leaks|Identify and repair small leaks in faucets, toilets, or appliances|60|30
+Clean Pet Areas|Scoop litter boxes, clean pet beds, and tidy up designated pet areas|45|7
+Prep Veggies|Wash, peel, and cut vegetables for use in meals or snacks throughout the week|60|2
+Clean Dryer Vent|Clear lint from dryer vent to prevent fires and maintain efficiency|30|90
+Prune Trees|Trim overgrown branches from trees around the property with pruning shears or saws|120|182
+Water Lawn Edges|Use a hose with nozzle attachment to water grass edges for even growth|45|7
+Change Furnace Filter|Replace air filter in home heating system to improve air quality and efficiency|30|90
+Polish Silverware|Clean and polish silver cutlery and serving pieces as needed|60|14
+Sweep Patio|Clear patio area of debris, leaves, or snow with a broom or leaf blower|30|7
+Vacuum Living Room Carpet|Use vacuamo ull to clean living room carpet, including under furniture and edges|45|7
+Organize Pantry|Arrange food items in pantry shelves by category for easy accessibility|45|28
+Clean Bathroom Tiles|Scrub tiled surfaces in the bathroom using a grout brush and cleaner|60|7
+Replace Light Bulbs|Ensure no rooms are dim by replacing any burnt out light bulbs|15|365
+Sort Laundry|Separate clothes into washable colors, whites, and delicates for laundering|40|7
+Water Indoor Plants|Hydrate house plants according to their individual needs, checking soil moisture levels|20|7
+Sweep Porch|Use a broom or leaf blower to clear leaves and debris from the porch area|15|14
+Organize Closet|Sort through clothing items, donate unwanted pieces, and neatly fold or hang remaining garments|90|140
+Deep Clean Refraderator|Remove all food items; wash shelves with soapy water; reorganize contents after drying|60|350
+Clean Out Garage|Sort through items in the garage, donate or discard unneeded objects and organize remaining tools and equipment|120|365
+Scrub Grill Grates|Remove grilling grates from BBQ; soak in warm soapy water; scrub with brush before rinsing clean|45|7
+Clean Out Car Interior|Remove trash and personal items; vacuum floor mats and seats; wipe down surfaces|60|90
+Wipe Down Appliances|Use a damp cloth to clean the exterior of kitchen appliances, removing fingerprints and smudges|30|14
+Clean Mirrors|Spray glass cleaner on mirrors and wipe with lint-free cloth for clear reflection|25|7
+Wash Bedding|Remove bed linens; wash using appropriate settings for fabric type; dry completely before making the bed|90|14
+Clean Stovetop/Cooktop|Gently clean cooking surface and control knobs with specific cleaner, being careful not to scratch any surfaces|30|7
+Wash Floors|Sweep or vacuum floors; follow up with a mop using suitable floor cleaner for the type of flooring|60|14
+Organize Mail Area|Sort through incoming mail, file important documents, and throw away junk mail|25|7
+Clean Oven Interior|Remove racks from oven; apply baking soda paste to interior surfaces and let sit overnight; wipe clean the next day|60|90
+Polish Wood Furniture|Apply wood polish with a soft cloth in circular motions, buffing away any residue for shine|45|35
+Clean Under Sink Cabinetry|Remove items from under sink; use appropriate cleaner to wipe down cabinets and pipes|20|14
+Wash Fridge Coils|Unplug fridge, locate the coil area at the back or bottom; using a refrigerator coil brush, remove dust build-up before plugging it back in|60|365
+Clean Under Sofa/Chair|Move furniture to access floor underneath and vacuum, removing any accumulated dirt and debrnibs|45|14
+Organize Bookshelf|Dust book spines; rearrange books by size or color for a tidy appearance|60|30
+Clean Ceiling Fans|Use an extendable duster to clean fan blades, reducing dust spread in the room|25|7
+Wash Bathroom Sink and Tub|Apply bathroom cleaner; scrub with brush or sponge; rinse thoroughly for a hygienic surface|60|7
+Clean Out Medicine Cabinet|Expire medications no longer needed; organize remaining items, checking labels and dates|30|90
+Wash Bathroom Grout|Apply grout cleaner with a brush or old toothbrush; scrub in small sections for thorough cleaning|60|180
+Organize Shoe Storage|Sort through shoes; wipe off any dirt and dust, then place them neatly in designated storage areas|35|28
+Clean Fridge Interior|Remove all items from fridge shelves; clean using refrigerator-safe cleaner before restocking with properly organized foods|90|365
+Wash Window Blinds|Dust or vacuum blinds, then use a damp cloth to wipe down each slat for improved light and appearance|45|7
+Clean Oven Racks|Remove oven racks; soak in warm water with dish soap; scrub away burnt-on residue before drying and placing back into the oven|60|90
+Organize Jewelry Box|Sort through jewelry, clean items using appropriate methods, then arrange neatly in a compartmentalized box or organizer|35|7
+Clean Under Bed|Clear any clutter from under bed; vacuum and wipe down surfaces to remove dust buildup|20|14
+Polish Hardwood Floors|Sweep floors first, then use a hardwood floor polisher or mop with wood-friendly cleaner for shine and protection|60|90
+Wash Kitchen Table and Chairs|Clean tabletop with suitable surface cleaner; wipe down chairs using appropriate methods based on material|30|7
+Organize Pantry Items by Expiry Date|Move items around to group them by expiration date, ensuring older products are used first|60|280
+Clean Shower and Tub Area|Scrub with non-abrasive cleaner; rinse thoroughly to maintain a clean bathing area without residue|35|7
+Vacuum Floors|Remove objects on floor, vacuum entire house including stairs, corners, and under furniture.|30|7
+Grocery Shopping|Prepare a shopping list based on the weekly meal plan; visit store to purchase items; organize groceries at home.|60|14
+Laundry Day|Separate clothes by color and fabric type, wash, dry, fold, and put away clean laundry.|90|7
+Make Beds|Straighten sheets, fluff pillows, and arrange bedding neatly every morning.|10|7
+Meal Prep|Prepare ingredients for the week's meals, including chopping vegetables and marinating proteins.|120|7
+Take Out Trash|Gather all trash bags from home; sort recyclables; take out garbage to designated area or bin.|20|3
+Prepare Meals|Cook daily meals according to the family's eating schedule and dietary needs.|60|7
+Clean Kitchen Appliances|Wipe down refrigerator, microwave, stove, and other kitchen appliances; deep-clean as needed.|40|14
+Walk Pets|Take dogs or other pets for walks; ensure they receive exercise and bathroom breaks as needed.|45|1
+Restock Toiletries|Check and replenish personal care items in the bathrooms, such as toilet paper, soap, and hand towels.|20|14
+Organize Closets|Sort clothing by season or type; fold or hang garments neatly; declutter non-essential items.|90|14
+Prepare Snacks|Make accessible healthy snack options like cut fruits, vegetables, or nuts; ensure freshness.|30|14
+Update To-Do Lists|Review and update personal and household to-do lists with upcoming tasks and appointments.|15|7
+Trim Bushes|Use pruning shears to shape bushes, remove dead branches; maintain yard aesthetics.|60|14
+File Paperwork|Sort mail, pay bills, file important documents in their designated places; declutter paper clutter.|45|14
+Check Smoke Detectors|Test all smoke detectors in the home; replace batteries or units as needed to maintain safety.|15|365
+Clear Gutters|Remove debris from gutters and downspouts; ensure proper drainage away from foundation.|90|4
+Deep Clean Refrigerator|Empty all contents, remove shelves if necessary; clean interior with appropriate products; organize food items upon return.|120|31
+Clean Light Fixtures|Dust and wipe down light fixtures around the house to prevent buildup of dirt or cobwebs.|30|7
+Prepare Bedsheets|Strip old sheets from beds; wash linens; replace with clean, freshly laundered bedding.|45|7
+Clean Grill|Pre-soak grates in soapy water; scrub with appropriate brushes; rinse and dry before storage or next use.|30|31
+Prepare Backpacks|Organize children's backpacks for school days; check supplies, homework, and permission slips.|25|7
+Wash Car Windows|Clean car windows using glass cleaner and microfiber cloth to maintain visibility and appearance.|30|31
+Dust Ceiling Fans|Use a long-handled duster or step ladder; gently remove dust from fan blades and housing.|25|7
+Clean Grout Lines|Scrub grout lines in tile areas with appropriate brushes and cleaning agents; rinse and dry surfaces.|60|31
+Organize Junk Drawer|Sort through items, discard trash or unused objects; categorize remaining items for easy accessibility.|45|7
+Prepare Picnic Basket|Assemble a picnic basket with necessary items such as blanket, food containers, utensils, and napkins.|30|31
+Clean Play Area|Sweep or vacuum floors of children's play areas; wipe down toys and surfaces with disinfectant.|45|7
+Organize Kitchen Pantry|Sort through pantry items, remove expired goods, reorganize shelves|60|28
+Wash Bed Linens|Strip and wash all bed linens with detergent|90|14
+Iron Clothing|Press all wrinkled clothing using an iron|60|5
+Deep Clean Oven|Remove racks, clean interior and exterior of the oven|120|90
+Wash Bathroom Tiles|Scrub bathroom tiles in shower/bathtub with cleaner|45|7
+Replace Toilet Paper Rolls|Check all bathrooms for toilet paper refills|15|30
+Clean Out Garbage Disposal|Pour baking soda and vinegwart through disposal, then rinse with hot water|20|90
+Wash Dogs|Give the family dog a thorough bath with pet-friendnksher shampoo|120|90
+Clean Out Refrigerator|Empty out refrigerator, clean interior with appropriate cleaner, and restock only fresh foods|90|90
+Wash Pet Beds|Remove covers, wash bedding in hot water, and vacuum frames|45|28
+Laundry (Separate): Whites, Colors, Delicates|Sort laundry into appropriate categories and wash accordingly|240|7
+Clean Toilet Bowl|Use toilet cleaner and brush to scrub bowl, then flush away residue|15|3
+Dust Bookshelebes|Remove items from shelf, dust the entire surface, and return items neatly|60|28
+Clean Bathroom Sinks|Scrub sink basins with cleaner and rinse thoroughly|45|7
+Wash Showers and Bathtubs|Use a tile cleaner to scrub down all surfaces in shower or bathtub area|120|90
+Dust Ceiling Cornices|Gently dust along the edges of the ceiling where it meets the walls|45|7
+Clean Stove Top|Remove burners and grates, soak if necessary, then scrub with cleaner|60|7
+Organize Desk Area|Sort through papers, trash unnecessary items, arrange office supplies neatly|90|14
+Wash Dishes by Hand|Fill sink with hot water and dish soap to wash all dishes thoroughly|35|7
+Dust Window Sills|Use a dry cloth or vacuum with dusting attachment to remove debris from window sills|30|7
+Trim Hedge Bushes|Use hedge trimmers or shears to shape bushes along property lines|90|90
+Clean Out Washer and Dryer Vents|Remove lint buildup from the vents for safe operation of appliances|45|180
+Dust Fan Blades|Turn off fan, use a damp cloth or vacuum with dusting attachment to clean blades|30|7
+Clean Garage Floors|Sweep and mop concrete floors, or shampoo carpeted areas in the garage|90|90
+Organize Tool Shelf|Sort through tools, remove unused items, and arrange remaining tools by type|120|365
+Clean Dining Room Chairs|Remove any seat cushions for washing, then wipe or vacuum the chairs themselves|60|7
+Dust Lampshades|Use a lint roller or microfiber cloth to gently remove dust from all lamp shades in the house|30|14
+Clean Air Conditioning Filters|Remove and wash air conditioning filters, then let dry before reinstalling|60|90
+Organize Toolboxes|Sort through tools, discard broken or unused items, and organize remaining tools by size/type|120|365
+Clean Exterior Windows|Use a long-handled squeegee to clean outside of windows from the ground if possible, or from ladders for higher windows|90|7
+Dust Under Furniture|Move furniture as necessary and use a vacuum with an extension wand to reach underneath|30|21
+Wash Curtains and Drapes|Take down curtains or drapes, follow care instructions for washing or dry cleaning, then rehang when dry|60|90
+Clean Bathroom Showerheads|Remove showerhead to soak in a bag of vinegar solution, scrub with an old toothbrush, and rinse thoroughly|45|7
+Dust Lampshades (Outdoors)|Use a microfiber cloth or brush attachment on a vacuum cleaner to dust outdoor lampshades like garden lights|30|7
+Clean Garbage Can Inserts|Remove liners, wash the inserts with warm soapy water and let them dry completely before using new linnkers|60|28
+Organize Children's Toys|Sort toys by category or age-appropriateness, donate unwanted items, and organize remaining toys in bins or on shelves|120|365
+Wash Bed Sheets|Remove, launder, and replace bed sheets in master bedroom|20|14
+Mopping Kitchen Floor|Sweep then mop the kitchen floor with a disinfectant solution|45|5
+Empty Trash Bins|Take out trash from bins in all rooms and replace liners as needed|30|7
+Clean Shower Curtains|Wash or wipe down shower curtain to remove soap scum|25|14
+Dust Light Fixtures|Clean all light fixthrenies to ensure brightness in rooms|30|14
+Change Toilet Paper Rolls|Replace empty rolls with new ones in all bathrooms' toilets|15|7
+Sweep Entryway|Clear dirt and debris from the main entry area of the home|30|7
+Clean Stovetop|Wipe down or scrub stovetop, remove any spills or buildup|25|7
+Trim Shrubs|Shape outdoor shrubs using shears for a neat appearance|45|14
+Clean Microwave Interior|Scrub the interior of the microwave to remove food splatters|30|28
+Organize Desk Workspace|Clear desk, arrange items neatly, and discard unnecessary clutter|45|7
+Vacuum Stairs|Clean all steps using a vacuum cleaner or handheld device|60|14
+Change Air Filter|Replace air filter in HVAC unit to ensure clean indoor air quality|30|90
+Deep Clean Refrigerator|Empty contents, wipe down shelves and drawers, return items neatly|120|90
+Clean Bathroom Mirrors|Spray glass cleaner on bathroom mirrors and wipe for a clear reflection|25|7
+Rake Leaves|Collect fallen leaves from yard using rake and dispose properly or compost|90|14
+Sweep Outdoor Patio|Clear debris from outdoor patio area, ready for use|30|7
+Clean Dishwasher Filter|Remove and clean the dishwasher's filter to maintain efficiency|25|90
+Dust Light Switches|Wipe down light switch plates throughout home to remove dust buildup|15|7
+Lint Laundry Baskets|Empty all laundry baskets and return them to their designated locations|30|7
+Wash Countertops|Use appropriate cleaner for kitchen and bathroom countertops to remove grime|60|7
+Organize Shoes by Entryway|Arrange all shoes neatly at entry points of home|30|7
+Vacuum Upholstered Furniture|Remove dirt and pet hair from all upholstered furniture using vacuum cleaner attachments|60|7
+Dust Lamp Shades|Wipe down all lamp shades in home for dust-free lighting experience|30|7
+Polish Sinks|Apply polish or use appropriate cleaner on bathroom and kitchen sinks|45|7
+Wash Shower Curtain Liners|Remove, wash and replace shower curtain liners as needed for hygiene|45|7
+Clean Garbage Disposal|Pour baking soda and vinegar down the disposal followed by hot water to cleanse|30|14
+Organize Bookshelcks|Arrange books on bookshelves alphabetically or by category, dust shelf surface|60|7
+Clean Kitchen Appliances' Exteriors|Wipe down exteriors of refrigerator, dishwasher, microwave with suitable cleaner|45|14
+Sort Mail and Papers|Organize incoming mail into appropriate categories for bills, advertisements, etc.|30|7
+Clean Under Furniture|Move furniture slightly to vacuum or sweep underneath, collecting hidden dirt|60|7
+Freshen Bedding|Air out and fluff all bedding by opening windows or using a fan for circulation|45|14
+Clean Fan Blades|Use an extendable duster to clean blades of fans, ensuring they're free from dust|25|7
+Vacuum Vehicle Interior|Remove mats and vacuum interior of vehicles parked at home|60|30 days
+Wash Windowsill Plants' Pots|Empty pots containing sills plants, wash with water, refill with fresh soil if needed|45|14
+Change Bedding Linens|Strip bed and replace linens, fluff pillows for a fresh sleeping environment|60|7
+Dust Ceiling Fan Blades|Wipe down or dust both sides of ceiling fan blades using a long-handled duster or microfiber cloth.|15|7
+Vacuum Carpets|Thoroughly vacuamoy all carpets in living areas using a high-efficiency particulate air (HEPA) filter vacuum cleaner for allergen reduction.|45|14
+Mop Hardwood Floors|Sweep and mop hardwood floors to remove dust, dirt, and grime with a suitable cleaning solution.|30|7
+Wipe Down Kitchen Appliances|Clean exterior surfaces of kitchen appliances such as the refraturator, microwave, and toaster oven with suitable cleaners.|30|7
+Declutter Entryway|Organize shoes, umbrellas, keys, mail, and other items in an entryway or mudroom to maintain a tidy space.|45|7
+Wash Curtains/Blinds|Launder or spot-clean curtains and blinds to remove dust and allergens.|60|90
+Sweep Outdoor Spaces|Clear leaves, debris, and dirt from patios, porches, and yard areas using a broom or leaf blower.|45|30
+Wipe Down Light Switches/Buttons|Clean light switch plates, door knobs, thermostats, and any other frequently touched surfaces with disinfectant wipes or sprays.|30|7
+Clear Garbage Bins|Empty all household garbage bins, rinse out liners if necessary, then replace them.|20|90
+Dust Lights/Fixtures|Polish light bulbs, fixtures, or chandeliers to prevent dust build-up and maintain brightness.|30|90
+Wash Drapes|Launder heavy drapes in the washing machine following care instructions or take them for professional cleaning if needed.|120|90
+Wipe Down Electronics|Use a microfiber cloth slightly dampened with electronics cleaner to wipe down TVs, computers, gaming consoles, etc.|30|7
+Clean Under Sinks|Remove items from under sinks and use cleaning supplies suitable for the surface material (e.g., wood or laminate) to remove grime.|45|90
+Empty Trash Cans/Recycling Bins|Take out garbage and recycling, replace liners, and wipe down bins as necessary.|30|7
+Clean Out Closets|Sort through closet contents, donate or discard items no longer needed, then organize the remaining clothing by type and color.|120|60
+Wash/Dry Towels|Separate lightly used towels from heavily soiled ones for washing, using appropriate laundry detergent and settings.|60|7
+Wash/Dry Linens|Launder bed sheets, pillowcases, tablecloths, or other fabric items using suitable detergent settings for the material type.|60|7
+Wash Coffee Pot/Kettle|Descale and thoroughly wash coffee pots or kettles to maintain optimal performance and hygiene.|30|14
+Wash Bath Mats|Remove bath mats from the floor, launder them using appropriate settings for material type, then hang or lay flat to dry.|45|14
+Clean Out Drawers|Empty drawers of clothing or other items, dust and wipe down drawer interiors before reorganizing contents by category and color.|90|30
+Organize Bookshelves|Dust off bookshelves and sort books, magazines, or decorative items by size, genre, or personal preference for a tidy display.|60|14

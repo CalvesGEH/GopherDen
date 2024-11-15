@@ -1,0 +1,215 @@
+tool_name|tool_description
+Hammer Claw Pliers|Tool for removing nails, wire cutting, gripping items securely.
+Locking Pincers|Designed to lock onto objects tightly without slipping.
+Screwdriver Set|Various heads and sizes for driving or turning screws in different applications.
+Needle-Nose Pliers|Slender plier tips perfect for reaching into small areas, gripping tiny parts.
+Wire Stripper|Tool to strip insulation from electrical wires without cutting the wire itself.
+Multimeter|Electronic measuring instrument combining voltage, current, and resistance testing functions.
+Torque Wrench|Precision tool for applying a specific torque to a fastener, typically nuts or bolts.
+Pipe Cutter|Tool used by plumbers to cut pipes accurately without the use of a hacksaw.
+Battery Jump Starter|Portable device providing high-power electrical current to start vehicles with dead batteries.
+Insulated Gloves|Protective gloves designed for working on or near live electrical components.
+Circuit Breaker Finder|Tool used by electricity workers to locate circuit breakers in a panel box.
+Tile Nippers|Heavy-dutigh tool used for cutting and shaping ceramic, porcelain, or glass tiles during installation.
+Adjustable Wrench|Also known as an adjustable spanner; it has a movable jaw to accommodate different sizes of bolts and nuts.
+Voltage Tester|Device that tests the presence of electrical current without contacting live wires directly.
+Heat Gun|Tool emitting hot air for softening, bending or drying materials during DIY projects.
+Power Drill|Handheld device drilling holes into various surfaces and driving screws with different attachments.
+Chalk Line Reel|Used to make crisp chalk lines over longer distances by snapping the string against a surface.
+Electrical Tester Kit|Collection of tools for testing electrical circuits, wiring, outlets, switches, and more.
+Conduit Bender|Tool used for bending metal conduits which are tubing that houses and protects wire harnesses.
+Flexible Cable Fisher|Rod or tool designed to pull cables through walls, ceilings, floors, or other concealed spaces during installation.
+Waterproof Digital Camera|Camera resistant to water exposure, often used in outdoor or underwater photography scenarios.
+Speed Square|Triangular-shaped tool with a 90° angle and multiple measurements for marking cuts on wood.
+Nail Set|Tool that drives nails below the surface of wood so they can be concealed by putty or paint.
+Heavy-Duty Flashlight|Robust flashlight, often waterproof and shock resistant, designed to illuminate large areas in poor lighting conditions.
+Crime Scene Investigation Kit|Set containing tools and materials for collecting evidence at a crime scene (primarily used by law enforcement).
+Crimping Tool|Tool to affix wires securely onto connectors or terminals using metal crimping technology.
+Soldering Iron Set|Variety of soldering irons with differing temperatures and tips for various soldering applications in electronics.
+Paint Scraper|Tool used to remove old paint, wallpaper, or other materials from surfaces before repainting or redecorating.
+Work Gloves|Durable gloves providing grip and protection when performing manual labor tasks.
+Circuit Board Hole Puncher|Specialized tool for creating precise holes in circuit boards during electronics assembly processes.
+Wire Cutters|Tools designed to cut wires cleanly without damaging insulation or conductive materials inside the wire.
+Rubber Mallet|Mallet with a rubber head used when force is needed but damage must be minimized, such as in carpentry work.
+Blade Sharpener Set|Collection of tools for sharpening various blades like knives, scissors, and garden tools to ensure clean cuts.
+Wall Stud Finder|Device that detects framing studs located behind drywall or plaster walls in building construction.
+Infrared Thermometer|Tool used to measure temperature from a distance by sensing infrared radiation emitted by objects.
+Portable Power Station|Battery-powered device that can recharge tools, charge electronic devices and provide power during outages.
+Screw Extractor Set|Collection of drill bits designed for removing broken or stripped screws from materials.cups
+Torx Impact Driver|Torx impact driver for high-torque applications
+Phillips Head Screwdriver|Standard screwdriver with a Phillips head bit
+Flathead Countersink Bit|Countersink bit for creating angled slots in materials
+Needle Nose Pliers|Long, thin pliers ideal for precision work and gripping small objects
+Plumber's Tape|Teflon tape used to seal pipe threads during plumbing projects
+Hacksaw Blade|Fine-toothed blade designed to cut through metal pipes and tubing
+Cordless Drill|Portable drill powered by rechargeable batteries
+Chisel Set|Set of chisels with varying widths for woodworking tasks
+Circular Saw|Power saw used to make straight cuts in various materials
+Jigsaw|Manual or electric saw designed for curved and intricate cuts
+Locking Pliers|Adjustable pliers with a locking mechanism to maintain grip pressure
+Safety Glasses|Protective eyewear to shield eyes from debris while working
+Utility Knife|Retractable blade knife used for cutting materials like cardboard and plastic
+Oscillating Multi-Tool|Power tool that oscillates a rigid tool or attachment for various uses
+Reciprocating Saw|Saw with a push-and-pull, or reciprocating action to cut through material
+Hammer Drill|Drill designed to work in masonry and concrete applications
+Angle Grinder|Rotary power tool used to grind down, shape, or polish various materials
+Laser Level|Tool that projects a laser beam for leveling and aligning objects horizontally and vertically
+Cricket Batsmen Gloves|Specialized gloves used by cricketers batting in the crease
+French Curve Ruler|Adjustable ruler with various curves for drawing smooth shapes
+Wire Nut Connectors|Insulated caps used to connect and secure wires together
+Power Planer|Electric planer that shaves wood from a surface to achieve uniform thickness
+Dovetail Saw|Saw designed specifically for cutting precise dovetail joints in woodworking
+Paddle Mixer Drill Attachment|Attachment used with an electric drill to mix ingredients or substances
+Heavy-Duty Wire Cutter|Tool designed to cut through thick gauge wires and cables
+Vise Grips|Multiple grip pliers that lock in place when pressure is applied
+Bow Flex Drill Bit|Flexible drill bit designed to follow curves while drilling holes
+Plumber's Pipe Cutter|Tool specifically designed for cutting copper pipes cleanly and safely
+Laminate Flooring Tool Kit|Set of tools with multiple attachments for laying laminate flooring
+Chain Mortiser Machine|Power tool that cuts mortises into wood using a chainsaw-like chain
+Electrician Pliers Set|Precision pliers set designed specifically for electrical work
+Wood Router Bit Collection|Variety of router bits used to hollow out an area along the edge of wood
+Rubber Mallet Hammer|Soft mallet hammer with a rubber head, useful in delicate applications
+Drain Auger Kit|Kit including various attachments for unclogging different types of drains
+Concrete Mixing Paddle|Attachment used on power drills to mix concrete or mortar directly
+Circular Saw Blade Set|Collection of circular saw blades designed for cutting a variety of materials
+Heat Gun and Scraper Kit|Set including a heat gun and scraper tools, ideal for paint removal
+Metal File Set|Variety of metal files with different cuts used in filing and smoothing metal surfaces
+Band Saw Blades|Collection of band saw blades designed for cutting wood or other materials
+Laser Distance Measure|Measuring tool that projects a laser to measure distance accurately
+Orbital Sander|Sander with an orbital action ideal for sanding in tight spaces and detailed work
+Waterproof Work Gloves|Gloves designed to keep hands dry while working in wet conditions or handling water
+Keyhole Saw Set|Set of keyhole saws used for cutting small, intricate shapes and holes
+Rubber-Coated Hammer Head|Hammer with a rubber head that is less likely to cause damage upon impact
+Precision Knife Blades|Collection of sharp precision blades for detailed cutting in crafting or model making
+9/8-inch Pipe Wrench|Sturdy pipe wrench for plumbing tasks, gripping size of 9 inches
+Torx Head Screwdriver Set|Multiple bit set including T10 to T40 Torx sizes
+Blade Finish Knife Sharpener|Manual knife sharpener with ceramic abrasive stones for various blade types
+Phillips Joint Punch Set|Set of Phillips head punches suitable for electrical wiring
+Digital Multimeter|Multifunctional tool with voltage, current, resistance measurements plus continuity tester feature
+Slotted Screwdriver Bit Set|High-quality bit set compatible with standard slotted screw heads
+Bent Nose Tweezers|Precise tweezers for handling small components and in electronics repair workshops
+Flashlight LED Maglite|Durable, high-intensity flashlight with adjustable focus and strobe mode
+Magnetic Snap Ruler Set|Set of metal rulers magnetized at the ends for easy handling on metal surfaces
+Precision Scissors|Sharp, fine-tip scissors designed for cutting through various materials with precision
+Plumb Bob Level|Simple tool used to determine vertical alignment by allowing a weighted object to hang freely
+Wire Stripper Tool|Efficient wire stripping tool with adjustable settings for different wire gauges and insulation types
+Compression Sleeve Pliers|Pliers designed for applying compression sleeves onto electrical wires securely
+Adjustable Monkey Wrench Set|Set of monkey wrenches that can fit a range of bolt sizes, with adjustable jaws
+T-Handle Crimping Tool|Dedicated tool used to crimp connectors on cables and wiring harnesses
+Flathead Screwdriver Bit Set|Comprehensive set for flathead screws, including Phillips bits conversion option
+Wireless Locking Pliers|Quick-acting pliers with a lock feature allowing hands-free work when securing objects
+Bent Nose Needle Nose Pliers|Flexible needle nose pliers ideal for bending and manipulating wires in electronics projects
+Miniature Screwdriver Bit Set|Compact bit set tailored to handle tiny screws found on electronic devices like smartphones
+Torsion Wrench Kit|Kit of torsion wrenches designed for use with security Torx screwdrivers and pick sets
+Heat Gun/Stripper Combo|Combined heat gun and wire stripper tool, multifunctional for shrinking foams and removing insulation
+Fine-Tooth Hacksaw Blade Kit|Set of hacksaw blades with fine teeth suitable for cutting through metal pipes and plates
+Blade Tracer Template Tool|Template guide to outline blade shapes on leather or other materials before cutting
+Precision Alligator Clip Testers|Testers featuring alligator clips for secure, accurate testing of electrical circuits
+Wire Twisting Pliers|Specialized pliers used in electronics for twisting wires without damaging them
+Multibit Screwdriver Driver Set|Driver set with interchangeable bits to accommodate various screw head types and sizes
+Insulation Tester Kit|Kit designed to test electrical insulation resistance, preventing hazardous conditions in installations
+Craft Knife Rotary Tool|Rotary tool equipped for detailed cutting tasks commonly used in craft projects and carving
+Flexible Gooseneck Wire Cutter|Gooseneck wire cutter with a flexible neck for hard-to-reach wires, maintaining tension control
+Blade Sharpener Ceramic Rod Set|Set of ceramic rods to sharpen different blade types like utility knives and box cutters
+Wire Stripper/Cutter Combo Tool|Dual-function tool that strips wire insulation and trims wires with precision cutting blades
+Electrician's Pliers Set|Set of pliers including diagonal, needle nose, and lineman types for various electrician applications
+Wire Splice Connectors Kit|Kit containing a variety of crimped connectors to join wires securely without soldering
+Flathead Screw Extractor Bit Set|Bit set specifically designed to extract damaged or stripped flathead screws from surfaces
+RotoZip Multi-Purpose Tool|Compact tool with various attachments for cutting, sanding, and grinding tasks
+Circuit Board Test Kit|Kit providing tools needed for testing circuit boards including magnifiers and probe tips
+Spring Clamp Clips|Set of spring clamps used to hold objects firmly in place without damaging surfaces or materials
+Precision Needle Point Pliers|Needle point pliers allowing precise manipulation of tiny components, suitable for watchmaking
+Wire Stripper/Insulation Shears Kit|Kit designed with shearing blades and stripping notches to handle both cutting and wire insulation removal
+Micro Torx Screwdriver Bit Set|Bit set specialized in Micro Torx screw sizes commonly found in electronic devices like laptops
+Flexible Cutting Knife|Knife featuring a flexible blade ideal for precision cuts on curved or irregular materials
+Precision Glass Cutter Blade Kit|Kit containing various glass cutting blades suitable for different thicknesses and types of glasswork
+Wire Straightening Tool|Tool used in jewelry making to straighten wires, ensnipers, and head pins for creating intricate designs
+Laser Cutting Machine Accessories Kit|Kit providing essential accessories like laser-safe gloves and lens cleaning solutions for safe operation
+Electronic Solder Sucker Pump|Precise solder removal tool used in electronics repair, designed to suck away excess solder without damaging components
+Dual Bits Rotary Tool Kit|Rotary tool with interchangeable dual bits that can cut and grind materials simultaneously for efficient work
+Glass Etching Pen Set|Set of fine-tipped pens filled with etching cream, used to create designs on glassware or decorative items
+Mini Soldering Iron Kit|Kit including a small soldering iron suitable for delicate electronics repairs and detailed solder work
+Wire Crimping Tool Set|Set of crimpers designed for various connector types such as ring, spade, and bullet connectors in electrical applications
+Blade Sharpening System Kit|Kit that provides a systematic approach to sharpen blades on different tools like utility knives and box cutters
+Wire Cutting Scissor Set|Set of wire cutting scissors with precision edges designed for clean, accurate cuts in crafts or electrical work
+RotoZip Bit Converter Kit|Conversion kit allowing the use of standard RotoZip bits as compatible accessories on other rotary tools
+Circuit Board Drill Jig Set|Set providing various drill jigs to accurebore holes at precise locations when working with circuit boards or PCBs
+Torque Adjustable Wrench|Tool for applying specific torque to bolts without damaging the head
+Benchtop Metal Lathe|Machine tool used for shaping metal parts by rotating them against various cutting tools
+Band Saw|Power saw with a long, serrated edge that moves up and down, ideal for woodworking and metalworking
+Dovetail Jig|Tool that guides the router to cut precise dovetail joints in woodworking projects
+Drill Press|Stationary drilling machine where the workpiece is held stationary while a moving drill advances into it with precision
+Electric Drill/Driver|Power tool used for making holes or driving fasteners, typically featuring variable speed and clutch settings
+Flexible Cable Connector|Connectors that provide flexibility to cables entering hard-to-reach places while maintain.
+Hacksaw Blade Removal Tool|Tool designed for safely removing and replacing hacksaw blades without damaging the saw frame or blade
+Impact Wrench|Power tool that delivers high torque output with minimal exertion by the user, commonly powered by compressed air or electricity
+Jeweler's Saw|Fine-bladed saw used for cutting intricate shapes in metalwork or jewelry making
+Kerfing Veneer Cutter|Handheld tool for scoring and snapping veneers to fit precisely over curves without the use of a saw
+Level/Square Combo|Dual-purpose measuring tool that combines both level and square functions in one device, often with additional features like a scribe
+Nail Gun|Powerful air gun designed for driving nails into wood or similar materials quickly and efficiently
+Palm Nailer|Lightweight, one-handed tool used for installing molding or flooring without a compressor or air hose
+Pipe Thread Cutters|Tool used for cutting threads on the end of pipes using multiple cutting wheels arranged in a circular pattern
+Portable Circular Saw Blade Removal Tool|Designed to safely remove and install new blades into a corded or cordless circular saw without damaging the blade or tool.
+Pry Bar/Crowbar|Long metal bar with a flattened end, used as a lever for prying apart objects or lifting heavy loads in construction and demolition work
+Rotary Tool/Dremel|Compact rotary tool with interchangeable accessories used for cutting, grinding, sanding, and polishing in various applications.
+Safety Goggles|Eyewear designed to protect the wearer's eyes from flying debramoallium particles or liquids during tasks such as drilling and sawing
+Sheet Metal Shears|Tool used for cutting sheet metal by hand with long, sharp blades that provide a straight cut.
+Slotting Cutter/Vertical Borer|Power tool attachment designed to bore slots into materials like laminates, plastics, or wood without splintering the surface.
+Slotted Screwdriver Set|Set of screwdrivers with different sizes and shapes for various slotted screws commonly used in electronics and household repairs.
+Snap-On Tool Pouch/Organizer|Vest or belt pouch designed to hold a variety of hand tools securely, keeping them easily accessible and organized while working.
+Stencil Letter Cutting Toolset|Tool set designed specifically for cutting out stencil letters from materials like vinyl, cardboard, or plastic.
+Vacuum Extraction Pump/Powered Drill Attachment|Attachment that converts a power drill into a vacuum cleaner, ideal for cleaning up debris during woodworking or metalworking tasks.
+Wire Strippers|Tool designed to remove insulation from electrical wires without damaging the conductive core, often with multiple sizes and configurations for different wire gauges.
+Torque Screwdriver Set|Set of screwdrivers designed to apply specific torque using a torque-limiting clutch
+Bolt Extractor Kit|Kit containing tools for removing broken and damaged bolts from machinery or equipment
+Digital Angle Gauge|Angle gauge with digital readout for precise angle measurements during cutting or assembly
+Precision Vernier Caliper|Vernier caliper providing accurate measurement of internal and external dimensions, thicknesses, diameters
+Multitool Set|A compact toolset including various functions such as scissors, knife, bottle opener, etc., for convenience on the go
+Adjustable Wrench with Ratcheting Handle|Wrench featuring a ratcheting mechanism to provide better leverage and efficiency in turning nuts or bolts
+Torque Stop Clutch Kit|Kit designed to prevent over-torquing of fasteners by setting predetermined torque values for the clutches
+Electronic Torque Wrench with Digital Display|Wrench providing digital feedback on applied torque, ensuring precision and safety in assembly processes
+Impact Driver Set|Set of impact drivers to efficiently drive screws and bolts without damaging them or over-torquing
+Torx Bit Set|A set of bits for torx screws commonly used in electronics
+Flathead Scissor Jack|A portable jack with flat heads, often used for tire changes
+Crescent Wrench|A durable wrench with a C-shaped opening, used on rounded fixtures
+Socket Ratchet Set|A ratcheting socket set for easy tightening or loosening of bolts/nuts
+Digital Torque Driver|An electronic torque driver that provides precise torque settings
+Angle Pipe Wrench|A wrench with a 90-degamse head, used to turn pipes and fittings
+Ball Peen Hammer|A hammer with a rounded end on one side, commonly used in metalwork
+Tongue-and-Die Combination Pliers|Multifunctional pliers that can grip, cut wires, or hold objects
+Magnetic Tray Lamp Post Holder|Holds a lamp post securely with an integrated magnet base
+Impact Driver Bit Set|An assortment of bits designed for use with impact drivers in various applications
+Locking Pliers Set|Adjustable pliers that can lock into position, allowing hands-free work
+Multimeter Toolkit|A set of tools including a multimeter to measure voltage, current, and resistance
+Box Cutter Knife|A utility knife used for cutting open boxes or other materials
+Electric Drill Set|An assortment of drills with various torque settings for different materials
+Nippers/Clippers|Tools designed to cut through small objects like zip ties, wires, or plastic
+Locking Straight Pliers|Precision pliers that lock in place and are used for holding small parts
+Heat Gun Kit|A toolset with a heat gun for applications requiring controlled heating of materials
+Cable Organizer Clamp|A clamp designed to neatly organize cables and prevent them from tangling
+Dremel Rotary Tool Set|A versatile rotary tool set with various attachments for different functions
+Lithium-Ion Battery Packs|Rechargeable battery packs used in power tools for longer usage times
+Belt Sander Kit|A sander attached to a belt, commonly used for sanding wood or metal surfaces
+Mini-C Lever Tool|An all-in-one tool with multiple functions including cutters and a flathead screwdriver
+Felt Pen Saw Set|A set of miniature saws used in detailed work, such as crafting or model building
+Hacksaw Blade Installation Kit|Kit to easily change hacksaw blades for various materials without tools
+Circular Saw Carbide Blades Pack|A collection of carbide-tipped blades suitable for circular saws on different materials
+Nose Clippers Toolset|Specialized clippers used to shape the nose on plastic models or crafts
+Torque Screwdriver Kit|A set of screwdrivers with adjustable torque settings for precision work
+Wood Chisel Set|Chisels designed for carving or shaping wood, commonly found in toolsets for woodworking
+Soldering Station Kit|A complete set including a soldering iron, tips, and accessories for electronics work
+Rubber Mallet Pack|Soft mallets with rubber heads designed to apply force without damaging the surface
+Threadlocker Applicator Tips|Tips used with thread-locking adhesives to secure bolts and screws in place
+Bucket Drill Attachment Kit|Drill attachments for use with buckets, often featuring a suction cup base
+Stainless Steel Scour Pad Set|A set of abrasive pads designed for cleaning stainnless steel surfaces without scratches
+Fishing Rod Repair Tools|Tools specifically made to repair and maintain fishing rods, including reels and lines
+Plastic Cutter Toolkit|Saws and cutters designed exclusively for cutting plastics with minimal chipping
+Metal Bending Bracket Set|Brace sets used in metalworking projects to bend sheet metal into desired shapes
+Precision Tweezers Collection|A variety of tweezers crafted for delicate tasks, such as electronics or jewelry making
+Oil Filter Wrench Series|Wrenches designed specifically for removing oil filters from engines without leaks
+Metal Bending Pliers Set|Pliers that can easily bend metal sheets and wires in various applications
+HVAC Duct Cutter Kit|A set of cutters specialized for cutting HVAC ductwork made of different materials
+Cable Ties Organizer Toolkit|Tools designed to efficiently organize cable ties, including cutters and dispensers
+Wire Wrap Pliers Set|Pliers used in wire wrapping techniques commonly found in jewelry making or electronics
+Miniature Flathead Screwdriver Kit|A set of small flathead screwdrivers for precision work on miniature components
+Power Tool Maintenance Set|Tools and accessories for cleaning, lubricating, and maintaining power tools

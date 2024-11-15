@@ -1,0 +1,62 @@
+# https://taskfile.dev
+
+version: "3"
+vars:
+  GREETING: Hello, World!
+env:
+  DEFAULT_GROUP: Home
+  PRODUCTION: false
+  API_PORT: 7877
+  TOKEN_TIME: 256 # hours
+  BASE_URL: http://localhost:3000
+  LANG: en-US
+
+# loads .env file if it exists
+dotenv:
+  - .env
+  - .dev.env
+tasks:
+  setup:py:
+    desc: setup python dependencies
+    cmds:
+      - poetry install --with main
+
+  setup:ui:
+    desc: setup frontend dependencies
+    dir: frontend
+    cmds:
+      - npm install
+
+  setup:
+    desc: setup all dependencies
+    deps:
+      - setup:py
+      - setup:ui
+
+  py:
+    desc: runs the backend server
+    cmds:
+      - poetry run python backend/main.py
+
+  ui:build:
+    desc: builds the frontend in frontend/dist
+    dir: frontend
+    cmds:
+      - npm run build
+
+  ui:
+    desc: runs the frontend server
+    dir: frontend
+    cmds:
+      - npm run dev
+
+  test:
+    desc: runs the pytest tests
+    cmds:
+      - poetry run pytest
+
+  docker:prod:
+    desc: builds and runs the production docker image locally
+    dir: docker
+    cmds:
+      - docker compose -f docker-compose.yml -p GopherDen up -d --build
