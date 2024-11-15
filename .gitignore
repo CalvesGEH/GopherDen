@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+$py.class
+
+# Virtual environment directories
+venv/
+
+# Build directories
+build/
+dist/
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment files
+*.env

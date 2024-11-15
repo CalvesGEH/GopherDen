@@ -1,0 +1,35 @@
+{
+    "name": "GopherDen-dev",
+    "build": {
+        "dockerfile": "./Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash",
+                "python.pythonPath": "/usr/local/bin/python3.9",
+                "eslint.validate": [
+                    "javascript",
+                    "javascriptreact",
+                    "typescript",
+                    "typescriptreact"
+                ]
+            },
+            "extensions": [
+                "ms-python.python",
+                "esbenp.prettier-vscode",
+                "dbaeumer.vscode-eslint"
+            ]
+        }
+    },
+    "postCreateCommand": "npm install --prefix ./frontend && pip install -r backend/requirements.txt",
+    "forwardPorts": [8000, 3000],
+    "remoteUser": "vscode",
+    "workspaceMount": "src=${localWorkspaceFolder},target=/app,type=bind,consistency=cached",
+    "containerEnv": {
+        "NODE_VERSION": "22.x",
+        "NODE_ENV": "development",
+        "PYTHON_VERSION": "3.12"
+    },
+    "postAttachCommand": "npm start --prefix ./frontend & uvicorn backend.main:app --host 0.0.0.0 --port 8000"
+}
