@@ -1,5 +1,5 @@
-from backend.repos.all_repositories import AllRepositories
-from backend.schema.tool import ToolCreate
+from repos.all_repositories import AllRepositories
+from schema.tool import ToolCreate
 
 
 class ToolCreationTests():

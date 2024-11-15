@@ -3,8 +3,8 @@ from datetime import timedelta
 
 from tests.utils import randomword, random_chore
 
-from backend.repos.all_repositories import AllRepositories
-from backend.schema.chore import ChoreCreate
+from repos.all_repositories import AllRepositories
+from schema.chore import ChoreCreate
 
 
 @pytest.fixture(scope="function")

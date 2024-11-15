@@ -1,8 +1,8 @@
 from datetime import datetime, timedelta
 
-from backend.repos.all_repositories import AllRepositories
-from backend.schema.chore import ChoreCreate
-from backend.schema.tool import ToolCreate, ChoreToolCreate
+from repos.all_repositories import AllRepositories
+from schema.chore import ChoreCreate
+from schema.tool import ToolCreate, ChoreToolCreate
 
 
 class ChoreCreationTests():

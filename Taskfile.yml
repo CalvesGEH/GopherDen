@@ -34,9 +34,10 @@ tasks:
       - setup:ui
 
   py:
-    desc: runs the backend server
+    desc: runs the backend server]
+    dir: backend
     cmds:
-      - poetry run python backend/main.py
+      - poetry run python main.py
 
   ui:build:
     desc: builds the frontend in frontend/dist

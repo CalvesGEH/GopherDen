@@ -1,5 +1,8 @@
-import secrets
+import dotenv
+from functools import lru_cache
+import os
 from pathlib import Path
+import secrets
 
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -81,3 +84,19 @@ def app_settings_constructor(data_dir: Path, production: bool, env_file: Path, e
     )
 
     return app_settings
+
+@lru_cache
+def get_app_settings() -> AppSettings:
+    CWD = Path(__file__).parent
+    BASE_DIR = CWD.parent.parent
+    ENV = BASE_DIR.joinpath(".env")
+    dotenv.load_dotenv(ENV)
+    DATA_DIR = os.getenv("DATA_DIR")
+    PRODUCTION = os.getenv("PRODUCTION", "True").lower() in ["true", "1"]
+    if PRODUCTION:
+        data_dir = Path(DATA_DIR if DATA_DIR else "/app/data")
+    elif os.getenv("TESTING", "False").lower() in ["true", "1"]:
+        data_dir = BASE_DIR.joinpath(DATA_DIR if DATA_DIR else "tests/.temp")
+    else:
+        data_dir = BASE_DIR.joinpath("dev", "data")
+    return app_settings_constructor(env_file=ENV, production=PRODUCTION, data_dir=data_dir)

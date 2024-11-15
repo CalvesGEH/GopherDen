@@ -2,9 +2,9 @@ import pytest
 
 from tests.utils import random_person, randomword
 
-from backend.repos.all_repositories import AllRepositories
-from backend.services.user_services.registration_service import RegistrationService
-from backend.schema.user import UserCreate
+from repos.all_repositories import AllRepositories
+from services.user_services.registration_service import RegistrationService
+from schema.user import UserCreate
 
 @pytest.fixture(scope="function")
 def unique_user() -> UserCreate:

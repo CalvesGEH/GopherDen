@@ -1,34 +1,26 @@
-from typing import List, Optional
-from sqlalchemy import ForeignKey
-from sqlalchemy.orm import Mapped, mapped_column, relationship
-from sqlalchemy.ext.declarative import declarative_base
+# backend/models.py
+from sqlalchemy import Column, Integer, String, ForeignKey, Boolean
+from sqlalchemy.orm import relationship
+from .database import Base
 
-from slugify import slugify
+class User(Base):
+    __tablename__ = "users"
 
-Base = declarative_base()
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String, unique=True, index=True)
+    email = Column(String, unique=True, index=True)
 
-class UserModel(Base):
-    __tablename__ = "users_table"
-    id: Mapped[int] = mapped_column(primary_key=True, index=True)
-    username: Mapped[str] = mapped_column(unique=True)
-    email: Mapped[Optional[str]] = mapped_column(unique=True)
-    password: Mapped[str]
-    admin: Mapped[bool] = mapped_column(default=False)
+class Chore(Base):
+    __tablename__ = "chores"
 
-    chores: Mapped[List["ChoreModel"]] = relationship(back_populates="user", cascade='all, delete', uselist=True)
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String, index=True)
+    description = Column(String)
+    assigned_to_id = Column(Integer, ForeignKey("users.id"))
+    completed = Column(Boolean, default=False)
 
-class ChoreModel(Base):
-    __tablename__ = "chores_table"
-    id: Mapped[int] = mapped_column(primary_key=True, index=True)
-    name: Mapped[str]
-    slug: Mapped[str] = mapped_column(index=True)
-    description: Mapped[Optional[str]]
-    total_time: Mapped[Optional[str]]
-    frequency: Mapped[Optional[str]]
+    # Relationship to User
+    assigned_to = relationship("User", back_populates="chores")
 
-    user_id: Mapped[int] = mapped_column(ForeignKey("users_table.id"))
-    user: Mapped[UserModel] = relationship(back_populates="chores")
-
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
-        self.slug = slugify(self.name)
+# Add the reverse relationship in the User model
+User.chores = relationship("Chore", order_by=Chore.id, back_populates="assigned_to")

@@ -1,9 +1,11 @@
 [tool.poetry]
 authors = ["Philip Moraski <ptmoraski@gmail.com>"]
 description = "A Household Chore Manager."
+package-mode = false
 license = "AGPL"
 name = "GopherDen"
 version = "0.0.1a"
+
 
 [tool.poetry.scripts]
 start = "backend.app:main"

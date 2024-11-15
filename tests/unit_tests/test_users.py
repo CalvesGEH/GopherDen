@@ -1,8 +1,8 @@
 from pytest import raises
 
-from backend.repos.all_repositories import AllRepositories
-from backend.schema.user import CreateUserRegistration, UserCreate
-from backend.services.user_services.registration_service import RegistrationService
+from repos.all_repositories import AllRepositories
+from schema.user import CreateUserRegistration, UserCreate
+from services.user_services.registration_service import RegistrationService
 
 
 class UserCreationTests():

@@ -13,10 +13,10 @@ from fastapi.testclient import TestClient
 
 from schema import schema
 
-from backend.main import app
-from backend.core import config
-from backend.db.db_setup import SessionLocal, generate_session
-from backend.db.init_db import main
+from main import app
+from core import config
+from db.db_setup import SessionLocal, generate_session
+from db.init_db import main
 from tests.fixtures import *
 
 main()

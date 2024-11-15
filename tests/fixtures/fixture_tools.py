@@ -2,8 +2,8 @@ import pytest
 
 from tests.utils import randomword, random_tool
 
-from backend.repos.all_repositories import AllRepositories
-from backend.schema.tool import ToolCreate
+from repos.all_repositories import AllRepositories
+from schema.tool import ToolCreate
 
 
 @pytest.fixture(scope="function")

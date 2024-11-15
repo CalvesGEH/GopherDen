@@ -3,13 +3,12 @@ from contextlib import asynccontextmanager
 
 import uvicorn
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.routing import APIRoute
 
-from backend.utils.logger import get_logger
-
-from backend.schema import schema
+from utils.logger import get_logger
+from routes import api_router
 
 logger = get_logger(__name__)
 
@@ -23,8 +22,8 @@ async def lifespan_fn(_: FastAPI) -> AsyncGenerator[None, None]:
       - https://fastapi.tiangolo.com/advanced/events/
     """
     logger.info("start: database initialization")
-    import backend.db.init_db as init_db
-    init_db.main()
+    import db.init_db as init_db
+    init_db.init_db()
     logger.info("end: database initialization")
 
     # logger.info("------APP SETTINGS------")
@@ -44,6 +43,7 @@ async def lifespan_fn(_: FastAPI) -> AsyncGenerator[None, None]:
     # )
 
     yield
+    logger.info("Shutting down!")
 
 app = FastAPI(
     title="GopherDen",
@@ -51,13 +51,7 @@ app = FastAPI(
     version="0.0.1b",
     lifespan=lifespan_fn,
 )
-
-# fix routes that would get their tags duplicated by use of @controller,
-# leading to duplicate definitions in the openapi spec
-for route in app.routes:
-    logger.debug("Checking route: %s", route)
-    if isinstance(route, APIRoute):
-        route.tags = list(set(route.tags))
+app.include_router(api_router)
 
 @app.get("/")
 def homepage():
